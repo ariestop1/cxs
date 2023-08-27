@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>asana</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#98D888" offset="0%"></stop>
+            <stop stop-color="#5FAF50" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#AEE1A0" offset="0%"></stop>
+            <stop stop-color="#76BF67" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#5FAF50" offset="0%"></stop>
+            <stop stop-color="#98D888" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="web-shopping" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-19" transform="translate(-0.000000, 0.000000)">
+            <path d="M1.62030721,7.02765198 L7.32686429,7.02765198 L7.32686429,7.02765198 L7.32686429,11.6150186 L1.08745776,15.0179735 C0.455104348,15.3628573 0.153993293,16.1060604 0.367962208,16.7938343 C0.532708641,17.3233893 1.09555113,17.619125 1.62510608,17.4543786 C1.69176036,17.4336422 1.75607074,17.4060122 1.81699405,17.3719366 L8.55653392,13.6023885 L8.55653392,13.6023885 L12.3863018,13.6023885 L12.4636069,17.0008914 C12.4759452,17.5433121 12.9191998,17.9765987 13.4617608,17.9765987 C14.0007684,17.9765987 14.4377204,17.5396467 14.4377204,17.000639 L14.4377204,13.1860171 C14.4377204,12.0814476 13.5422899,11.1860171 12.4377204,11.1860171 L11.4661158,11.1860171 L11.4661158,11.1860171 L11.4661158,7.02765198 L17.051273,7.02765198 C17.5752405,7.02765198 18,6.60289244 18,6.078925 L18,6.078925 L18,6.078925 C18,5.62603018 17.6328562,5.25888639 17.1799614,5.25888639 L1.62030721,5.25888639 C1.13187608,5.25888639 0.735924416,5.65483806 0.735924416,6.14326919 C0.735924416,6.63170032 1.13187608,7.02765198 1.62030721,7.02765198 Z" id="Path-5" fill="url(#linearGradient-1)"></path>
+            <rect id="Rectangle" fill="url(#linearGradient-2)" x="6" y="7" width="6" height="6"></rect>
+            <ellipse id="Oval" fill="url(#linearGradient-3)" cx="9" cy="2.25" rx="2.17241379" ry="2.25"></ellipse>
+        </g>
+    </g>
+</svg>

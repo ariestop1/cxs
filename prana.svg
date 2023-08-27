@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>prana</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#4AFF1B" offset="0%"></stop>
+            <stop stop-color="#5FAF50" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="100%" x2="100%" y2="40.955501%" id="linearGradient-2">
+            <stop stop-color="#98D888" offset="0%"></stop>
+            <stop stop-color="#5FAF50" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#C0F6B2" offset="0%"></stop>
+            <stop stop-color="#5FAF50" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="web-shopping" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="prana" fill-rule="nonzero">
+            <path d="M0.0522645998,8.02357759 L3.800988,8.6855367 C3.79480316,8.78956766 3.79166666,8.89442006 3.79166666,9.00000566 C3.79166666,11.7528454 5.92371968,14.0072926 8.62531357,14.1995016 L8.62507609,18.0000113 C3.82838479,17.8032855 0,13.8491107 0,9.00000566 C0,8.67008644 0.0177217913,8.34430991 0.0522645998,8.02357759 Z" id="pranayamaicon48-path" fill="#5FAF50"></path>
+            <path d="M12.5302865,12.8326455 L15.5871495,15.1379465 C14.0323669,16.8086253 11.850678,17.8871093 9.41697195,17.9981895 L9.41672535,14.1963408 C10.6142432,14.1014577 11.6977598,13.6011907 12.5302865,12.8326455 Z" id="pranayamaicon48-path" fill="url(#linearGradient-1)"></path>
+            <path d="M9.41697195,0.00182181801 C14.193969,0.219855512 18,4.1650782 18,9.00000566 C18,11.0863969 17.291265,13.0071129 16.1016089,14.5341453 L13.0728228,12.249451 C13.7835035,11.3583432 14.2083333,10.2288289 14.2083333,9.00000566 C14.2083333,6.26146043 12.0983648,4.01614526 9.41672535,3.80367053 L9.41697195,0.00182181801 Z" id="pranayamaicon48-path" fill="url(#linearGradient-2)"></path>
+            <path d="M8.62507609,0 L8.62531358,3.80050973 C6.3083361,3.96535463 4.41027604,5.64704835 3.91679674,7.85908639 L0.179847683,7.1993817 C0.989341106,3.20598842 4.43836185,0.171708963 8.62507609,0 Z" id="pranayamaicon48-path-copy-2" fill="url(#linearGradient-3)"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="15px" viewBox="0 0 19 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>barcode</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#98D874" stop-opacity="0.85" offset="0%"></stop>
+            <stop stop-color="#5FAF40" stop-opacity="0.85" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="web-shopping" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="barcode" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#000000" opacity="0" x="0" y="0" width="18.9551" height="15.0684"></rect>
+            <path d="M0,15 L1.5918,15 L1.5918,0 L0,0 L0,15 Z M3.13477,15 L4.04297,15 L4.04297,0 L3.13477,0 L3.13477,15 Z M5.56641,15 L8.16406,15 L8.16406,0 L5.56641,0 L5.56641,15 Z M9.11133,15 L10.7715,15 L10.7715,0 L9.11133,0 L9.11133,15 Z M11.7578,15 L14.3359,15 L14.3359,0 L11.7578,0 L11.7578,15 Z M15.127,15 L17.1484,15 L17.1484,0 L15.127,0 L15.127,15 Z M17.6465,15 L18.9551,15 L18.9551,0 L17.6465,0 L17.6465,15 Z" id="Shape" fill="url(#linearGradient-1)"></path>
+        </g>
+    </g>
+</svg>
