@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="20px" viewBox="0 0 28 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>goivang</title>
+    <defs>
+        <linearGradient x1="50%" y1="9.28417286%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#DCB407" offset="0%"></stop>
+            <stop stop-color="#FFEB15" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="28" height="20" rx="3"></rect>
+    </defs>
+    <g id="icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(-0.000000, 0.000000)">
+            <mask id="mask-3" fill="white">
+                <use xlink:href="#path-2"></use>
+            </mask>
+            <use id="path-4" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+            <text id="YOGA-LASYN" mask="url(#mask-3)" font-family="SFPro-CondensedBlack, SF Pro" font-size="2" font-style="condensed" font-weight="700" fill="#FFFFFF">
+                <tspan x="3.21630859" y="14">YOGA LASYN</tspan>
+            </text>
+            <text id="HỘI-VIÊN-VÀNG" mask="url(#mask-3)" font-family="SFPro-CondensedBlack, SF Pro" font-size="2" font-style="condensed" font-weight="700" fill="#FFFFFF">
+                <tspan x="3.15283203" y="17">HỘI VIÊN VÀNG</tspan>
+            </text>
+            <rect id="Rectangle" fill="#F3DB5B" mask="url(#mask-3)" x="20" y="4" width="4" height="2.66666667"></rect>
+        </g>
+    </g>
+</svg>
