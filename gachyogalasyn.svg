@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="127px" height="7px" viewBox="0 0 127 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 6</title>
+    <g id="Darf" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-6" transform="translate(1.000000, 0.000000)">
+            <rect id="Rectangle" x="0.984251969" y="0" width="123.031496" height="7"></rect>
+            <text id="YOGA-LASYN" font-family="SFPro-CondensedBold, SF Pro" font-size="5" font-style="condensed" font-weight="bold" fill="#5FAF50">
+                <tspan x="49.1383662" y="5">YOGA LASYN</tspan>
+            </text>
+            <line x1="0.492125984" y1="3.5" x2="48.7204724" y2="3.5" id="Line" stroke="#5FAF50" stroke-linecap="square"></line>
+            <line x1="77.2637795" y1="3.5" x2="124.507874" y2="3.5" id="Line-Copy" stroke="#5FAF50" stroke-linecap="square"></line>
+        </g>
+    </g>
+</svg>
