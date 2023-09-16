@@ -1,3 +1,3 @@
 // config.js 
 
-const scriptUrl = 'https://script.google.com/macros/s/AKFYCBsdKJFdjsKFHAKSDFhaljASHDfk/exec';
+const scriptUrlv2 = 'https://script.google.com/macros/s/AKFYCBsdKJFdjsKFHAKSDFhaljASHDfk/exec';
