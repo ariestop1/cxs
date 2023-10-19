@@ -69,7 +69,21 @@ div.wh-widget-send-button-wrapper.wh-widget-right div.wh-widget-send-button-wrap
 div.wh-widget-send-button-wrapper.wh-widget-right div.wh-widget-send-button-wrapper-list>a.wh-widget-button{min-width:55px}
 div.wh-widget-send-button-wrapper.wh-widget-right div.wh-widget-send-button-wrapper-list>a.wh-widget-button div.mes-us{text-align:right}
 div.wh-widget-send-button-wrapper.wh-widget-right div.wh-widget-send-button-wrapper-list>a.wh-widget-button div.wh-widget-button-icon{float:right}
-div.wh-widget-send-button-wrapper div.wh-widget-send-button-wrapper-list{margin:10px;margin-bottom:0;padding:0;border:0;position:relative;bottom:3px;z-index: 2;text-align:center}
+
+div.wh-widget-send-button-wrapper {
+  position: relative;
+  z-index: 2; /* Đảm bảo rằng nút có giá trị z-index cao hơn */
+}
+
+div.wh-widget-send-button-wrapper-list {
+  margin: 10px;
+  margin-bottom: 0;
+  padding: 0;
+  border: 0;
+  text-align: center;
+}
+
+
 div.wh-widget-send-button-wrapper div.wh-widget-send-button-wrapper-list.wh-widget-activate>a.wh-widget-button{display:block}
 div.wh-widget-send-button-wrapper div.wh-widget-send-button-wrapper-list.wh-widget-activate>a.wh-widget-button.wh-widget-button-activator div.mes-us{display:none}
 div.wh-widget-send-button-wrapper div.wh-widget-send-button-wrapper-list.wh-widget-activator-as-close>a.wh-widget-button.wh-widget-button-activator div.mes-us{display:none}
