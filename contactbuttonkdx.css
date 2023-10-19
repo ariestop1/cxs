@@ -21,7 +21,7 @@
 .wh-widget-hello-popup-wrapper .wh-widget-hello-popup .wh-messengers ul li.wh-messenger-bg-facebook{background-color:#0084ff}
 .wh-widget-hello-popup-wrapper .wh-widget-hello-popup .wh-messengers ul li.wh-messenger-bg-email{background-color:#848484}
 .wh-widget-hello-popup-wrapper .wh-widget-hello-popup .wh-messengers ul li.wh-messenger-bg-sms{background-color:#1ecea8}
-.wh-widget-hello-popup-wrapper .wh-widget-hello-popup .wh-messengers ul li.wh-messenger-bg-call{background-color:#ec5923}
+.wh-widget-hello-popup-wrapper .wh-widget-hello-popup .wh-messengers ul li.wh-messenger-bg-call{background-color:#ec5923}ƒ
 .wh-widget-hello-popup-wrapper .wh-widget-hello-popup .wh-messengers ul li a{line-height:10px;width:28px;height:28px;display:inline-block}
 .wh-widget-hello-popup-wrapper .wh-widget-hello-popup .wh-messengers ul li a svg{margin:1px 0 0 1px;width:90%;height:90%}
 .wh-widget-hello-popup-wrapper .wh-widget-hello-popup-content{min-height:58px;display:block;border-radius:4px 4px 0 0;color:black;padding:27px 23px 20px 18px}
@@ -69,7 +69,7 @@ div.wh-widget-send-button-wrapper.wh-widget-right div.wh-widget-send-button-wrap
 div.wh-widget-send-button-wrapper.wh-widget-right div.wh-widget-send-button-wrapper-list>a.wh-widget-button{min-width:55px}
 div.wh-widget-send-button-wrapper.wh-widget-right div.wh-widget-send-button-wrapper-list>a.wh-widget-button div.mes-us{text-align:right}
 div.wh-widget-send-button-wrapper.wh-widget-right div.wh-widget-send-button-wrapper-list>a.wh-widget-button div.wh-widget-button-icon{float:right}
-div.wh-widget-send-button-wrapper div.wh-widget-send-button-wrapper-list{margin:10px;margin-bottom:19px;padding:0;border:0;position:relative;bottom:3px;text-align:center}
+div.wh-widget-send-button-wrapper div.wh-widget-send-button-wrapper-list{margin:10px;margin-bottom:0px;padding:0;border:0;position:relative;bottom:3px;z-index: 2;text-align:center}
 div.wh-widget-send-button-wrapper div.wh-widget-send-button-wrapper-list.wh-widget-activate>a.wh-widget-button{display:block}
 div.wh-widget-send-button-wrapper div.wh-widget-send-button-wrapper-list.wh-widget-activate>a.wh-widget-button.wh-widget-button-activator div.mes-us{display:none}
 div.wh-widget-send-button-wrapper div.wh-widget-send-button-wrapper-list.wh-widget-activator-as-close>a.wh-widget-button.wh-widget-button-activator div.mes-us{display:none}
