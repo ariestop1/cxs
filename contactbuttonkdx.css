@@ -64,12 +64,8 @@ div.wh-widget-send-button-wrapper.wh-widget-left div.wh-widget-send-button-wrapp
 div.wh-widget-send-button-wrapper.wh-widget-left div.wh-widget-send-button-wrapper-list a.wh-widget-send-button-get-button{float:left;left:1px}
 div.wh-widget-send-button-wrapper.wh-widget-left div.wh-widget-send-button-wrapper-list>a.wh-widget-button div.wh-widget-button-icon{float:left}
 
-
-div.wh-widget-send-button-wrapper {
-    position: fixed;
-    bottom: 10px; /* Điều chỉnh khoảng cách từ phía dưới */
-    left: 10px; /* Điều chỉnh khoảng cách từ phía trái */
-    z-index: 2; /* Đảm bảo rằng nó hiển thị phía trên các phần tử khác */
+div.wh-widget-send-button-wrapper.wh-widget-right {
+    z-index: 4; right: 0px;
 }
 
 
@@ -83,7 +79,7 @@ div.wh-widget-send-button-wrapper.wh-widget-right div.wh-widget-send-button-wrap
 
 div.wh-widget-send-button-wrapper {
   position: relative;
-  z-index: 5; /* Đảm bảo rằng nút có giá trị z-index cao hơn */
+  z-index: 2; /* Đảm bảo rằng nút có giá trị z-index cao hơn */
 }
 
 div.wh-widget-send-button-wrapper-list {
