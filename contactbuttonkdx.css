@@ -63,7 +63,18 @@ div.wh-widget-send-button-wrapper.wh-widget-left{left:0}
 div.wh-widget-send-button-wrapper.wh-widget-left div.wh-widget-send-button-wrapper-list{left:0;float:left}
 div.wh-widget-send-button-wrapper.wh-widget-left div.wh-widget-send-button-wrapper-list a.wh-widget-send-button-get-button{float:left;left:1px}
 div.wh-widget-send-button-wrapper.wh-widget-left div.wh-widget-send-button-wrapper-list>a.wh-widget-button div.wh-widget-button-icon{float:left}
-div.wh-widget-send-button-wrapper.wh-widget-right{right:0}
+
+
+div.wh-widget-send-button-wrapper {
+    position: fixed;
+    bottom: 10px; /* Điều chỉnh khoảng cách từ phía dưới */
+    left: 10px; /* Điều chỉnh khoảng cách từ phía trái */
+    z-index: 2; /* Đảm bảo rằng nó hiển thị phía trên các phần tử khác */
+}
+
+
+
+
 div.wh-widget-send-button-wrapper.wh-widget-right div.wh-widget-send-button-wrapper-list{right:10px;float:right}
 div.wh-widget-send-button-wrapper.wh-widget-right div.wh-widget-send-button-wrapper-list a.wh-widget-send-button-get-button{float:right;right:1px}
 div.wh-widget-send-button-wrapper.wh-widget-right div.wh-widget-send-button-wrapper-list>a.wh-widget-button{min-width:55px}
