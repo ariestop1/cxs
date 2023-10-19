@@ -72,7 +72,7 @@ div.wh-widget-send-button-wrapper.wh-widget-right div.wh-widget-send-button-wrap
 
 div.wh-widget-send-button-wrapper {
   position: relative;
-  z-index: 2; /* Đảm bảo rằng nút có giá trị z-index cao hơn */
+  z-index: 5; /* Đảm bảo rằng nút có giá trị z-index cao hơn */
 }
 
 div.wh-widget-send-button-wrapper-list {
